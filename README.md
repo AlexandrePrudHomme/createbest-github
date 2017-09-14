@@ -1,2 +1,2 @@
 # createbest-github
-une simple démonstration du déroulement typique de Git
+une simple démonstration du déroulement typique de Git modification
